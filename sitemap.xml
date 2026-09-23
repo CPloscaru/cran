@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://cran.kaltech.work/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cran.kaltech.work/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cran.kaltech.work/accueil.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cran.kaltech.work/inicio.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cran.kaltech.work/"/>
+  </url>
+  <url>
+    <loc>https://cran.kaltech.work/accueil.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cran.kaltech.work/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cran.kaltech.work/accueil.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cran.kaltech.work/inicio.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cran.kaltech.work/"/>
+  </url>
+  <url>
+    <loc>https://cran.kaltech.work/inicio.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cran.kaltech.work/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cran.kaltech.work/accueil.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cran.kaltech.work/inicio.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cran.kaltech.work/"/>
+  </url>
+  <url>
+    <loc>https://cran.kaltech.work/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cran.kaltech.work/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cran.kaltech.work/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cran.kaltech.work/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cran.kaltech.work/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://cran.kaltech.work/confidentialite.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cran.kaltech.work/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cran.kaltech.work/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cran.kaltech.work/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cran.kaltech.work/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://cran.kaltech.work/privacidad.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cran.kaltech.work/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cran.kaltech.work/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cran.kaltech.work/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cran.kaltech.work/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://cran.kaltech.work/data-deletion.html</loc>
+  </url>
+</urlset>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cran.kaltech.work/sitemap.xml
